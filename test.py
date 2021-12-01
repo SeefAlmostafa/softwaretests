@@ -20,6 +20,6 @@ print(vereinigung) #(1, 2, 3, 4, 'Usb', 'Hallo', 4, 'Usb', 'World', 'Seef', 'Alm
 
 #Tupel Methoden
 f = ein_tupel.count("Usb")
-print(f) # 2 Usb
+print(f)  
 f = ein_tupel.index(4)
 print(f) # der Zahl 4 befindet sich an der stelle 3
