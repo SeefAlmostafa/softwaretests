@@ -22,4 +22,4 @@ print(vereinigung) #(1, 2, 3, 4, 'Usb', 'Hallo', 4, 'Usb', 'World', 'Seef', 'Alm
 f = ein_tupel.count("Usb")
 print(f) # 2 Usb
 f = ein_tupel.index(4)
-print(f) # Das Zahl 4 befindet sich an der stelle 3
+print(f) # der Zahl 4 befindet sich an der stelle 3
