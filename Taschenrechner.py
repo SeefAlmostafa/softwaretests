@@ -9,6 +9,8 @@ def div(x,y):
     else :
         return x/y
 
+def mod(x,y):return x%y
+
 
 # Testing
 
@@ -19,3 +21,4 @@ print(sum(x,y))
 print(sub(x,y))
 print(mal(x,y))
 print(div(x,y))
+print(mod(x,y))
