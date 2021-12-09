@@ -6,3 +6,6 @@ print(add(2, 2))
 
 def mal(x, y): return x * y
 print(add(2, 2))
+
+def div(x, y): return x / y
+print(add(2, 2))
